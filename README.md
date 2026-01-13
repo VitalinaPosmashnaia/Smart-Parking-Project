@@ -1,4 +1,4 @@
-STM32 Smart Parking System
+# STM32 Smart Parking System
 
 A scalable smart parking system based on STM32F407G-DISC1 microcontrollers using a Master-Slave architecture over I2C.
 
