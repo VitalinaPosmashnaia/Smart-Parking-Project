@@ -70,6 +70,9 @@ LED group 3 - PB13(Green), PB14(Red) - Status Indicators
 Check the wiring of SDA/SCL and ensure Pull-up resistors are connected.
 Verify TIM1 Prescaler is set to 167 and Input Capture Polarity is correct.
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f30b47de-dfb6-4a90-a29c-dfe2dca6b0de" />
+
+
 # Authors
 
 Vitalina Posmashnaia 
