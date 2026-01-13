@@ -23,11 +23,11 @@ Connectivity:
 
 # Pin Configuration
 
-# Master Board
+Master Board
 I2C Bus - PA8 - SCL 
 I2C Bus - PC9 - SDA
 
-# Slave Board 
+Slave Board 
 
 I2C Bus - PA8 - I2C3 SCL 
 I2C Bus - PC9 - I2C3 SDA 
