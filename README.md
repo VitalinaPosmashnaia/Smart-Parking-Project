@@ -67,6 +67,8 @@ LED group 3 - PB13(Green), PB14(Red) - Status Indicators
      Set the unique I2C address in MX_I2C3_Init (e.g., 0x30 for Node 1, 0x31 for Node 2).
 3.  Build and Flash the code to the respective boards.
 
+To run this project, open the .ioc file in STM32CubeMX and press 'Generate Code' to restore Drivers folder
+
 Check the wiring of SDA/SCL and ensure Pull-up resistors are connected.
 Verify TIM1 Prescaler is set to 167 and Input Capture Polarity is correct.
 
